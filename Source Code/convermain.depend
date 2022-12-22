@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671732682 source:/home/mainkali/OnagEngine/Conver/convermain/ConverMain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
